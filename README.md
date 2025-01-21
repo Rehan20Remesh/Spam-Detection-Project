@@ -11,4 +11,4 @@ Storage: At least 20 GB of free disk space
 
 Operating System: Windows 10, macOS, or a modern Linux distribution
 
-Software used: Jupyter notebook
+Software used: Jupyter notebook.
